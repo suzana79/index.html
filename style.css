@@ -3,7 +3,7 @@ body {
 
 }
 
-#IMG_20220820_115003-web.webp {
+#Aprender-a-desenhar-sozinho.jpeg {
     width: 100%;
 
 }
@@ -26,4 +26,7 @@ p {
 em strong {
         color: #FF0000;
 
+}
+.itens {
+  font-style: italic;
 }
