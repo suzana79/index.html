@@ -1,32 +1,52 @@
 body {
-    background: #CCCCCC
+      background: #CCCCCC;
+}
+#3706-original.png {
+
+    width: 20px;
 
 }
 
-#Aprender-a-desenhar-sozinho.jpeg {
-    width: 100%;
-
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+    
 }
-
-h1 {
-  text-align: center
-
+.titulo-principal {
+   padding-left: 20px;
 }
-
+.titulo-centralizado { 
+   text-align: center;
+}
 p {
-  text-align: center;
-
+   text-align: center;
 }
 
 #missao {
-       font-size: 20px
+
+       font-size: 20px;
 
 }
 
 em strong {
+
         color: #FF0000;
 
 }
-.itens {
-  font-style: italic;
+
+.benefícios {
+    background: #CCCCCC;
+    padding: 20px;
+    font-style: italic;
+    
 }
+h2 {
+     text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
